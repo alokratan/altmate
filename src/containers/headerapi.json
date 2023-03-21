@@ -1,0 +1,63 @@
+[
+    {
+        "id": 0,
+        "title": "top offers",
+        "image": "../IMG/offers.png",
+        "to":"/top offers"
+    },
+    {
+        "id": 1,
+        "title": "grocery",
+        "image": "../IMG/gros.png",
+        "to":"/grocery"
+    },
+    {
+        "id": 2,
+        "title": "mobiles",
+        "image": "../IMG/mobile.png",
+        "to":"./mobiles"
+      
+    },
+    {
+        "id": 3,
+        "title": "fashion",
+        "image": "../IMG/fasion.png",
+        "to":"./fashion"
+    },
+    {
+        "id": 4,
+        "title": "electronics",
+        "image": "../IMG/electronics.png",
+        "to":"./electronics"
+    },
+    {
+        "id": 5,
+        "title": "home",
+        "image": "../IMG/home.png",
+        "to":"./home"
+    },
+    {
+        "id": 6,
+        "title": "appliances",
+        "image": "../IMG/appliances.png",
+        "to":"./appliances"
+    },
+    {
+        "id": 7,
+        "title": "travels",
+        "image": "../IMG/travel.png",
+        "to":"./travels"
+    },
+    {
+        "id": 8,
+        "title": "beauty, toy",
+        "image": "../IMG/toy.png",
+        "to":"./beauty"
+    },
+    {
+        "id": 9,
+        "title": "Vehicles",
+        "image": "../IMG/twowheel.png",
+        "to":"/vehicles"
+    }
+]

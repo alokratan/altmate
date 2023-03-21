@@ -1,0 +1,36 @@
+[
+    {
+       
+        "id": 0,
+       "name":"Samsung Galaxy M04",
+        "title": "Samsung Galaxy M04 Dark Blue, 4GB RAM, 128GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 | 5000 mAh Battery",
+        "upto":"Upto 30% off",
+        "image": "./phone1.jpg"
+    },
+    {
+       
+        "id": 1,
+       "name":"Samsung Galaxy S21",
+        "title": "SAMSUNG Galaxy S21 FE 5G (Lavender, 128 GB)  (8 GB RAM)",
+        "upto":"Upto 30% off",
+        "image": "./galaxys1.webp"
+    },
+    {
+       
+        "id": 2,
+       "name":"Google Pixel 6a",
+        "title": "Google Pixel 6a (Chalk, 128 GB)  (6 GB RAM)",
+        "upto":"Upto 30% off",
+        "image": "./pixell.jpg"
+    },
+    {
+       
+        "id": 3,
+       "name":"Samsung Galaxy M04",
+        "title": "Samsung Galaxy M04 Dark Blue, 4GB RAM, 128GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 | 5000 mAh Battery",
+        "upto":"Upto 30% off",
+        "image": "./phone1.jpg"
+    }
+   
+   
+]
